@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mohammad 👋</h1>
+<h1 style="background-color:powderblue;">Hi, I'm Mohammad 👋</h1>
 
 I'm a Data Analyst from India. I'm currently learning Data Analysis and Visualization. I also enjoy building projects in my free time.
 
